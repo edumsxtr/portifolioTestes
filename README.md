@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+👋,+my+name+is+Fabrício+Perrone+🤓+;I'm+from+Brasil,+Viamão-RS+🗺;I+am+a+QA+Testing+Analyst+Testing+🕵️‍👨‍💻;Be+Welcome!+🥰)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/Fabricioperrone">
+  <a href="https://github.com/edumsxtr">
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=Fabricioperrone&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Fabricioperrone&show_icons=true)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricioperrone&layout=compact&langs_count=7&theme=radical"/>
     
